@@ -1,0 +1,5 @@
+n =  float(input())
+print(int(n*2))
+print(int(n*10))
+print(int(n/2))
+print('{:.3f}'.format(n//2))
